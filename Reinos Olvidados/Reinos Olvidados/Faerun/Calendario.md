@@ -1,1 +1,0 @@
-16 de Kythorn, 1492 DR
