@@ -1,0 +1,12 @@
+
+El **Leviatán Varado** es una taberna y posada de tres pisos instalada dentro del casco de un viejo barco varado en el distrito Protector de Neverwinter, propiedad de Harrag, un ex–pirata que conserva en cada rincón el carácter marinero de su pasado. La madera envejecida del exterior contrasta con la luz cálida que se filtra por los ventanucos, invitando a marineros, contrabandistas y comerciantes que llegan por mar. El primer piso, llamado **la Bodega**, contiene la cocina y la barra principal, decoradas con trofeos náuticos acumulados durante la vida pirata de Harrag: cráneos y armas de sahuagin, aletas de tiburón y un enorme caparazón de cangrejo. En el segundo nivel, **la Cabina**, se encuentran las habitaciones de la posada —nueve cuartos pequeños, dos amplias suites y una habitación mediana— junto con el **Stardeck**, una plataforma exterior en el lado de estribor que ofrece vista al puerto. El tercer piso, **la Cubierta**, funciona como salón abierto, con mesas reforzadas, una barra con toneles de cerveza y almacenes en la popa, sobre los cuales se ubican los aposentos privados de Harrag. Los tres niveles están unidos por una escalera de caracol que se enrolla alrededor del mástil central, y un elevador de plataforma que permite mover suministros mediante una palanca, acompañado de un sistema de campanas para comunicarse entre pisos. Con mezcla de olor a mar, madera húmeda y cerveza, el Leviatán Varado es un punto de encuentro ruidoso y siempre vivo, donde historias de mareas, riesgos y oportunidades cambian de manos tan rápido como las jarras que pasan por la barra.
+
+## Tripulación :
+
+- **Harrag** — Antiguo Capitan y actual dueno de El Leviatan Varado
+- **Andrella** — conocida como “la Mate” o “First Mate”. Es la barmaid principal y cabeza del staff cuando Harrag no está. Supervisa meseras / servicio y el funcionamiento diario de la taberna.
+- **Jyseria**, **Sandrine** y **Willow** — otras barmaids/hospedadoras que junto con Andrella sirven, limpian y ayudan con las habitaciones (“cuartos”) de la taberna.
+- **Feng** — un enorme semi-orco que actúa como “portero / matón” (bouncer). Es quien mantiene el orden cuando las cosas se ponen tensas.
+- **Tabnab** — el cocinero. A cargo de preparar las comidas y el sustento para clientes y tripulación.
+- **Puk** — entrega mensajes para los miembros del staff/patrones.
+-![[unnamed (13).jpg]]
