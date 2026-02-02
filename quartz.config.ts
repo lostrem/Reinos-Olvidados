@@ -1,24 +1,22 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Reinos Olvidados",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+
     analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+  provider: "plausible",
+},
+
+    locale: "es-ES",
+    baseUrl: "lostrem.github.io/Reinos-Olvidados",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -53,6 +51,7 @@ const config: QuartzConfig = {
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -60,10 +59,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
+        theme: { light: "github-light", dark: "github-dark" },
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
@@ -73,7 +69,9 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
+
     filters: [Plugin.RemoveDrafts()],
+
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -88,7 +86,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
