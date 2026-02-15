@@ -6,3 +6,7 @@ El corte no es tosco: fue hecho con **precisión**, casi ritual. La carne prese
 Cuenta Pugg que puede pertenecer a "Aglaope" la triton de la casa
 
 ![[7207b782ae79823089315b5fdf41ace3.jpeg]]
+
+---------------------------------------------
+Encontrado por Lukan Vhalanor , 12 de Kythorn, 1492 DR
+Ubicacion:Almacen de [[Mansion Los Fenomenos]]

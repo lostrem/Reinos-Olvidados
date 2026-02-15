@@ -1,7 +1,7 @@
 
 **Muerte súbita de un proveedor funerario**
 
-En la madrugada de ayer fue hallado sin vida **Derrik Halmor**, comerciante de ataúdes y proveedor habitual de servicios funerarios, en el interior de su depósito del distrito del Puerto.
+En la madrugada de ayer fue hallado sin vida **Derrik Halmor**, comerciante de ataúdes y proveedor habitual de servicios funerarios, en el interior de su depósito del distrito del Puerto, [[Neverwinter]].
 
 De acuerdo con el informe preliminar de la Guardia de la Ciudad, el deceso habría ocurrido **mientras el señor Halmor realizaba tareas habituales de inventario**, presuntamente a causa de un **colapso físico repentino**. No se observaron signos de forcejeo, ni heridas visibles, ni daños estructurales en el lugar.
 

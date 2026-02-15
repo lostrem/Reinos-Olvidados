@@ -1,7 +1,7 @@
 
 **Las autoridades descartan crimen**
 
-En la madrugada de ayer fue hallado sin vida **Harlon Vess**, escribano adscripto a la oficina de registros del puerto de Neverwinter, en su residencia cercana a los muelles orientales.
+En la madrugada de ayer fue hallado sin vida **Harlon Vess**, escribano adscripto a la oficina de registros del puerto de [[Neverwinter]], en su residencia cercana a los muelles orientales.
 
 Según fuentes oficiales, el deceso habría ocurrido **por causas naturales**, posiblemente relacionadas con una afección previa no especificada. No se hallaron signos de forcejeo ni de ingreso forzado, y los documentos bajo su custodia fueron encontrados **en orden y sin faltantes**.
 

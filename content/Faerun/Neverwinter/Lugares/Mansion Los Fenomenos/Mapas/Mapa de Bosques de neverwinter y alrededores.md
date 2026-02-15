@@ -12,3 +12,5 @@ Cragmaw Hideout
 Falcon's Hunting Lodge
 Circle of thunder
 Agatha's Lair
+
+Ubicacion: Sala de Cartografia de la [[Mansion Los Fenomenos]]

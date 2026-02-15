@@ -1,5 +1,5 @@
 
-En la mañana de hoy fue hallado sin vida **Maelis Corvan**, médico reconocido del distrito del Río Never, en las dependencias anexas a su consultorio, a pocos pasos del cauce.
+En la mañana de hoy fue hallado sin vida **Maelis Corvan**, médico reconocido del distrito del Río Never, [[Neverwinter]], en las dependencias anexas a su consultorio, a pocos pasos del cauce.
 
 De acuerdo con el informe preliminar de la Guardia de la Ciudad, el fallecimiento **no presenta signos visibles de violencia** y todo apunta, en principio, a un **deceso por causas naturales**, posiblemente vinculado a una dolencia previa que el propio galeno habría tratado con discreción.
 

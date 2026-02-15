@@ -3,7 +3,7 @@ El **Leviatán Varado** es una taberna y posada de tres pisos instalada dentro
 
 ## Tripulación :
 
-- **Harrag** — Antiguo Capitan y actual dueno de El Leviatan Varado
+- **[[Harrag]]** — Antiguo Capitan y actual dueno de El Leviatan Varado
 - **Andrella** — conocida como “la Mate” o “First Mate”. Es la barmaid principal y cabeza del staff cuando Harrag no está. Supervisa meseras / servicio y el funcionamiento diario de la taberna.
 - **Jyseria**, **Sandrine** y **Willow** — otras barmaids/hospedadoras que junto con Andrella sirven, limpian y ayudan con las habitaciones (“cuartos”) de la taberna.
 - **Feng** — un enorme semi-orco que actúa como “portero / matón” (bouncer). Es quien mantiene el orden cuando las cosas se ponen tensas.
