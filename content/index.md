@@ -25,6 +25,5 @@ Porque en los Reinos Olvidados, **cada sendero puede convertirse en leyenda**, 
 
 En aquel mundo, donde la aventura nunca duerme, lo único imposible es no soñar.
 
-!\[Mapa de los Reinos Olvidados]
 !\[\[208a1744-e26c-4e5c-b1f1-335349a9e867.png]]
 
