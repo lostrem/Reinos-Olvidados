@@ -1,5 +1,7 @@
 
-#### Eldric Malloran: “Puggs… es un buen chico, aunque vive perdido en su propio mundo. No pedí que heredara esa deuda, pero cumple con lo que puede. Si alguna vez lograra prestar atención más de un minuto seguido, hasta sería un sereno decente.”
+>[!quote] Eldric Malloran
+>“Puggs… es un buen chico, aunque vive perdido en su propio mundo. No pedí que heredara esa deuda, pero cumple con lo que puede. Si alguna vez lograra prestar atención más de un minuto seguido, hasta sería un sereno decente.”
+
 
 Puggs es un adolescente de **16 años**, flaco y desgarbado, con esa postura encorvada típica de alguien que lleva toda la vida intentando pasar desapercibido. Su piel es pálida por vivir en un lugar donde casi no entra la luz, y sus ojeras profundas le dan un aire de cansancio perpetuo. Tiene el cabello oscuro, largo y desprolijo, siempre con mechones cruzándole la cara. Su ropa son prendas viejas, demasiado grandes para él, gastadas por la humedad de la mansión; normalmente viste una camisa arrugada, un chaleco raído y pantalones que mantiene atados con un cordón.
 

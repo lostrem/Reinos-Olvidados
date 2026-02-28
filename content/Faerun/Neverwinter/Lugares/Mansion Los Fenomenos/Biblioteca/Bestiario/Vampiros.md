@@ -1,4 +1,4 @@
->[!Alustriel Silverhand]
+>[!quote] Alustriel Silverhand
 >“Un vampiro no es solo un depredador de sangre, sino de esperanza; allí donde se alza, la luz comienza a olvidar su propósito.”
 
 En el continente de **Faerûn**, los vampiros son considerados una de las expresiones más refinadas y aterradoras de la no-muerte, no por su ferocidad —que es innegable— sino por su capacidad de conservar inteligencia, memoria, ambición y propósito tras la muerte. A diferencia de otros no-muertos que existen como meros instrumentos de energía nigromántica, el vampiro es una voluntad persistente atrapada en un estado antinatural, sostenida por la sangre de los vivos y separada definitivamente del orden natural del ciclo vital. La transformación no es simplemente física, sino metafísica: el alma del individuo queda ligada a una maldición que reemplaza su latido por hambre eterna, y su calor por una frialdad que no pertenece al mundo de los mortales.

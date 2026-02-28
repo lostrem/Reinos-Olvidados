@@ -1,5 +1,7 @@
 
-#### Lord Protector: “El Salón de la Justicia no pertenece a un dios ni a una corona: pertenece a la ciudad. Mientras sus puertas permanezcan abiertas al diálogo y cerradas al caos, Neverwinter seguirá en pie.”
+>[!quote] Lord Protector
+>“El Salón de la Justicia no pertenece a un dios ni a una corona: pertenece a la ciudad. Mientras sus puertas permanezcan abiertas al diálogo y cerradas al caos, Neverwinter seguirá en pie.”
+
 
 El **Salón de la Justicia** se alza en el corazón de [[Neverwinter]] como un recordatorio de que la ley precede a la fe, y que la fe, cuando es recta, puede convivir sin alzar la voz. Su arquitectura no busca inspirar devoción sino **orden**: un **domo vasto**, sostenido por aristas de piedra que convergen hacia un espacio central despejado, donde las palabras pesan más que los símbolos. A lo largo de cada arista se disponen **mesas y asientos**, austeros pero firmes, donde sacerdotes, clérigos y seguidores presentan peticiones, disputas o propuestas; allí se escucha, se delibera y, si corresponde, se ayuda. No todo recibe respuesta favorable. Aquí, el juicio es parte del servicio.
 

@@ -1,4 +1,5 @@
-#### Elminster Aumar: “He visto morir imperios y dioses, y aun así, nada perturba tanto el orden del mundo como una muerte que se niega a permanecer muerta.”
+>[!quote] Elminster Aumar
+>“He visto morir imperios y dioses, y aun así, nada perturba tanto el orden del mundo como una muerte que se niega a permanecer muerta.”
 
 Quien consulte esta guía debe abandonar la noción errónea de que el clero de Kelemvor actúa como un cuerpo uniforme, pues tal simplificación solo conduce a malentendidos peligrosos. La Iglesia del Juez de los Muertos está compuesta por **oficios diferenciados**, establecidos para preservar el orden natural del tránsito final y evitar que la muerte sea manipulada, temida o comerciada. Los **Guías de la Perdición** ejercen la disciplina interna de la fe y la supervisión de sus recursos; son jueces antes que cazadores, encargados de corregir desviaciones doctrinales y de asegurar que ningún templo, sacerdote o aliado olvide que la muerte no sirve a ambiciones mortales. Los **Guías de la Muerte**, por su parte, recorren caminos y ciudades como mensajeros entre santuarios, llevando enseñanza, auxilio y registro, y recordando a los vivos que el final no es castigo, sino destino compartido.
 

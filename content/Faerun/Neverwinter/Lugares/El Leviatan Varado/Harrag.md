@@ -1,3 +1,5 @@
+>[!quote] [[Pugg]]
+>“Harrag gruñe mucho… pero es de los pocos que no hace preguntas cuando uno necesita quedarse en silencio.”
 
 **Nombre:** Harrag — también conocido como “Capitán Harrag”.  
 **Raza / Estirpe:** Humano  

@@ -1,4 +1,4 @@
-> [!Theren Vauldrex] 
+>[!quote] Theren Vauldrex
 > “No tememos a la muerte, porque es el destino de todos. Tememos a quienes la encadenan, la pervierten y la obligan a servir. Velsharoon no enseña a aceptar el final… enseña a negarlo.”
 >  
 

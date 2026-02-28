@@ -1,3 +1,6 @@
+>[!quote] Volo
+>“Pequeños como hojas al viento, los esprites poseen la incómoda costumbre de ver el alma de un hombre antes de escuchar sus palabras.”
+
 En **Faerûn**, los esprites son considerados entre las presencias más sutiles —y más difíciles de comprender— del Pueblo Feérico. Aunque su origen se encuentra en el Feywild, su influencia se extiende a muchos de los bosques antiguos y territorios salvajes de Toril, especialmente en regiones donde la frontera entre lo material y lo feérico es delgada. No son criaturas que busquen reconocimiento ni adoración; su existencia está ligada a la vigilancia del equilibrio natural, y su intervención suele ser tan silenciosa como decisiva.
 
 Los esprites que habitan Faerûn tienden a vincularse a lugares específicos que poseen algún tipo de significado antiguo: arboledas que sobrevivieron al ascenso y caída de reinos, manantiales ocultos en colinas olvidadas, o senderos que fueron transitados por espíritus mucho antes de que las razas mortales construyeran ciudades. En estos sitios actúan como observadores y, en ocasiones, como jueces. A diferencia de las criaturas mortales, los esprites no interpretan el mundo en términos de ley o caos, sino de armonía y disonancia. Para ellos, una criatura no es peligrosa por lo que ha hecho, sino por el impacto que su existencia tendrá en el tejido del entorno.
