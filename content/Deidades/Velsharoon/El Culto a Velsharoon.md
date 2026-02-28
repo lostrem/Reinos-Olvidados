@@ -1,0 +1,25 @@
+> [!Theren Vauldrex] 
+> “No tememos a la muerte, porque es el destino de todos. Tememos a quienes la encadenan, la pervierten y la obligan a servir. Velsharoon no enseña a aceptar el final… enseña a negarlo.”
+>  
+
+En **Faerûn**, el culto de **Velsharoon** representa una de las expresiones más frías y metódicas de la devoción hacia la muerte. A diferencia de religiones que veneran el final de la vida como tránsito o descanso, los seguidores de Velsharoon —el llamado Nigromante— no ven la muerte como destino, sino como herramienta, recurso y estado superior de existencia. Para ellos, la mortalidad es una limitación impuesta por la debilidad del cuerpo, y la no-muerte es una forma de trascendencia que permite alcanzar control, conocimiento y permanencia.
+
+El culto no se presenta como una religión abierta, sino como una red fragmentada de estudiosos, hechiceros, sacerdotes y ambiciosos que comparten una misma filosofía: la vida es efímera, pero la voluntad puede persistir si se libera de la carne. Muchos de sus miembros comienzan como magos obsesionados con prolongar su existencia, pero con el tiempo su búsqueda se transforma en devoción. Velsharoon no exige adoración sentimental, sino compromiso con el dominio de la muerte como arte.
+
+Dentro del culto, la nigromancia no es vista como una práctica oscura o prohibida, sino como la disciplina más pura del conocimiento arcano. La creación de no-muertos, la preservación del cuerpo tras la muerte y la manipulación del alma son considerados avances legítimos hacia la perfección. Aquellos que demuestran verdadera dedicación pueden aspirar a convertirse en liches, vampiros u otras formas de existencia eterna, no como castigo, sino como ascenso.
+
+El culto opera mediante células pequeñas y discretas que rara vez conocen la totalidad de la organización. Esta fragmentación no es accidental, sino un reflejo de su filosofía: la supervivencia depende de la resiliencia. Si una célula cae, otras continúan. Sus miembros suelen infiltrarse en instituciones académicas, gremios arcanos o cortes nobles, donde pueden acceder a conocimiento, cadáveres o influencia sin despertar sospechas. También mantienen vínculos pragmáticos con otras fuerzas que valoran la muerte como instrumento, incluyendo ciertas tradiciones asociadas a **Myrkul** o las doctrinas de pérdida y oscuridad ligadas a **Shar**, aunque estas alianzas suelen ser temporales y basadas en conveniencia.
+
+Los rituales del culto tienden a ser silenciosos, clínicos y desprovistos de teatralidad. La muerte es tratada como proceso, no como tragedia. Los cuerpos son recursos. Las almas, energía. Incluso el sacrificio es visto más como inversión que como acto de fe. En muchos casos, los seguidores de Velsharoon buscan evitar la destrucción indiscriminada, prefiriendo el control a la ruina, ya que un mundo funcional provee más materia prima que uno devastado.
+
+## El Culto de Velsharoon en Neverwinter
+
+En [[Neverwinter]], el culto encuentra un terreno especialmente fértil debido a la historia turbulenta de la ciudad y a las capas de ruinas que yacen bajo su reconstrucción constante. Neverwinter ha sufrido catástrofes que dejaron tras de sí innumerables muertos y estructuras olvidadas, creando espacios donde el estudio de la muerte puede desarrollarse sin interferencia.
+
+Aquí, el culto rara vez actúa como una organización visible. En cambio, sus agentes se integran en la vida urbana como sanadores, eruditos, embalsamadores, sepultureros o magos independientes. Estas profesiones les permiten acceder tanto a los cuerpos como a la información sin levantar sospechas. Los cementerios, criptas y morgues se convierten en centros de actividad encubierta, mientras que túneles antiguos y estructuras abandonadas sirven como laboratorios ocultos.
+
+Operativamente, los cultistas en Neverwinter tienden a enfocarse en la adquisición y preservación de restos, así como en la experimentación controlada. No buscan el caos abierto que atraería la atención de las autoridades o de órdenes religiosas hostiles. En cambio, prefieren influir desde la discreción, apoyando indirectamente a grupos que generen conflicto o muerte sin que su mano sea evidente. En este contexto, pueden establecer relaciones pragmáticas con entidades no-muertas como vampiros u otros agentes de la noche, viendo en ellos no solo aliados, sino ejemplos de trascendencia.
+
+Neverwinter también ofrece algo más valioso que cadáveres: anonimato. La constante llegada y partida de viajeros permite que los cultistas se muevan entre identidades, desaparezcan tras experimentos fallidos o reemplacen miembros caídos sin que la estructura general se vea comprometida. Con el tiempo, su presencia puede volverse parte invisible del funcionamiento de la ciudad, contribuyendo silenciosamente a la persistencia de la muerte organizada dentro de una urbe que se enorgullece de haber sobrevivido a ella.
+
+![[ChatGPT Image 27 feb 2026, 07_30_33 a.m..png]]

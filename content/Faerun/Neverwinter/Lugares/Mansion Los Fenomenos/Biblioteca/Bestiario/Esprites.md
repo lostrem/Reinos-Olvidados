@@ -1,0 +1,20 @@
+En **Faerûn**, los esprites son considerados entre las presencias más sutiles —y más difíciles de comprender— del Pueblo Feérico. Aunque su origen se encuentra en el Feywild, su influencia se extiende a muchos de los bosques antiguos y territorios salvajes de Toril, especialmente en regiones donde la frontera entre lo material y lo feérico es delgada. No son criaturas que busquen reconocimiento ni adoración; su existencia está ligada a la vigilancia del equilibrio natural, y su intervención suele ser tan silenciosa como decisiva.
+
+Los esprites que habitan Faerûn tienden a vincularse a lugares específicos que poseen algún tipo de significado antiguo: arboledas que sobrevivieron al ascenso y caída de reinos, manantiales ocultos en colinas olvidadas, o senderos que fueron transitados por espíritus mucho antes de que las razas mortales construyeran ciudades. En estos sitios actúan como observadores y, en ocasiones, como jueces. A diferencia de las criaturas mortales, los esprites no interpretan el mundo en términos de ley o caos, sino de armonía y disonancia. Para ellos, una criatura no es peligrosa por lo que ha hecho, sino por el impacto que su existencia tendrá en el tejido del entorno.
+
+En Faerûn, esto los vuelve particularmente sensibles a la expansión de asentamientos, la corrupción de la naturaleza o la manipulación mágica que altera el equilibrio de la vida y la muerte. La tala indiscriminada, la contaminación de ríos o la presencia de energías nigrománticas pueden atraer su atención del mismo modo que lo haría una horda invasora. Sin embargo, rara vez responden con violencia abierta. Prefieren observar durante largos periodos, evaluando si la perturbación es temporal o parte de un cambio más profundo.
+
+Su apariencia, aunque diminuta y aparentemente delicada, no debe llevar a error. Los esprites se presentan como humanoides minúsculos con alas translúcidas, pero su forma parece más cercana a una manifestación viva de la naturaleza que a un cuerpo biológico convencional. Sus movimientos son ligeros, casi sin peso, y su presencia suele ir acompañada de una quietud antinatural en el aire, como si el entorno mismo reconociera su autoridad.
+
+Los esprites de Faerûn poseen la capacidad de percibir la inclinación moral de las criaturas que cruzan sus dominios. Esta percepción no se basa en rituales ni en magia aprendida, sino en una sensibilidad inherente que les permite distinguir entre quienes preservan el equilibrio y quienes lo amenazan. En regiones donde druidas, exploradores o guardianes de antiguos círculos mantienen lazos con el mundo natural, los esprites pueden llegar a actuar como aliados silenciosos, guiando o advirtiendo sin revelar su presencia.
+
+No obstante, también pueden convertirse en adversarios persistentes. Aquellos que introducen corrupción, especialmente mediante magia que distorsiona el ciclo de la vida y la muerte, pueden encontrarse bajo vigilancia constante. Los esprites no buscan la confrontación directa; prefieren incapacitar antes que destruir. Sus diminutas armas, impregnadas con venenos o encantamientos feéricos, reflejan esta filosofía: neutralizar la amenaza sin alterar el entorno más de lo necesario.
+
+En ciertos casos raros, individuos de Faerûn con vínculos profundos con la naturaleza o con lo feérico pueden establecer relaciones de confianza con un esprite. Tales vínculos no son de servidumbre, sino de afinidad. El esprite permanece libre en su juicio y abandonará cualquier alianza que perciba como incompatible con el equilibrio que protege.
+
+Así, en los rincones salvajes de Faerûn, los esprites no son simplemente hadas diminutas, sino manifestaciones conscientes de la vigilancia natural. Son testigos antiguos de los cambios del mundo, guardianes silenciosos de lugares olvidados y recordatorios vivientes de que incluso las fuerzas más pequeñas pueden sostener —o desafiar— el equilibrio de la vida.
+
+Descubierto por Ferin, 20 de Kythorn , 1492 DR
+
+![[ChatGPT Image 28 feb 2026, 11_02_33 a.m..png]]
+
