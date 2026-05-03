@@ -1,0 +1,18 @@
+>[!quote] Volothamp Geddarm
+"Si bien muchos viajeros temen a los lobos de los alrededores de Neverwinter, yo sostengo que no son meras bestias: hay en su mirada una astucia casi erudita, como si cada aullido fuese una nota en un idioma antiguo que aún no comprendemos"
+
+En los bosques templados y las colinas que rodean [[Neverwinter]] habita una subespecie de lobo particularmente adaptada a los cambios mágicos y climáticos de la región. Estos cánidos, de complexión robusta y pelaje denso, presentan una variación cromática que va desde grises ceniza hasta tonos oscuros casi negros, lo que les permite camuflarse eficazmente entre la vegetación húmeda y las sombras del sotobosque. Durante los inviernos más crudos, su pelaje se espesa notablemente, actuando como aislante frente a las corrientes frías que descienden desde el norte.
+
+Su dieta es predominantemente carnívora, basada en presas de tamaño medio como ciervos, jabalíes y cabras salvajes. Sin embargo, se ha documentado que, en épocas de escasez, estos lobos complementan su alimentación con carroña e incluso frutos silvestres ricos en azúcares. Un rasgo distintivo de la población cercana a Neverwinter es su aparente tolerancia —y en algunos casos, atracción— hacia criaturas imbuidas de energía mágica. Restos de bestias feéricas o alteradas por hechicería han sido hallados en sus zonas de alimentación, lo que sugiere una capacidad fisiológica para procesar tejidos inusuales sin efectos adversos visibles.
+
+La estructura social de estos lobos se organiza en manadas jerárquicas, generalmente compuestas por entre seis y doce individuos. La cohesión del grupo se mantiene a través de complejas señales vocales y corporales: aullidos que pueden oírse a grandes distancias, posturas de dominancia y sumisión, y un sofisticado uso del olfato para marcar territorio. La pareja alfa dirige los desplazamientos y la caza, mientras que los individuos más jóvenes aprenden mediante la observación y la participación progresiva en las batidas.
+
+Las estrategias de caza son altamente coordinadas. La manada rodea a su presa, identificando individuos débiles o heridos, y ejecuta ataques sucesivos para agotar al objetivo antes de asestar el golpe final. Este comportamiento cooperativo maximiza la eficiencia energética del grupo y reduce el riesgo individual. Cabe destacar que se han registrado casos en los que estas manadas evitan deliberadamente ciertas zonas del bosque, posiblemente debido a la presencia de depredadores mayores o influencias arcanas que alteran su comportamiento instintivo.
+
+Entre los datos más curiosos se encuentra la observación de que algunos ejemplares presentan una sensibilidad inusual a cambios atmosféricos y mágicos, mostrando inquietud horas antes de tormentas o eventos arcanos significativos. Asimismo, relatos de exploradores sugieren que ciertas manadas desarrollan vínculos territoriales duraderos con ruinas antiguas o senderos poco transitados, lo que podría indicar una forma primitiva de memoria colectiva transmitida entre generaciones.
+
+En conjunto, los lobos de los alrededores de Neverwinter representan un ejemplo notable de adaptación biológica en un entorno donde lo natural y lo mágico coexisten de manera constante, dando lugar a comportamientos y características que, si bien anclados en la biología conocida, rozan los límites de lo extraordinario.
+
+Descubierto por Lime, 27 de Kythorn , 1492 DR
+
+![[ChatGPT Image 3 mag 2026, 12_24_24.png]]
