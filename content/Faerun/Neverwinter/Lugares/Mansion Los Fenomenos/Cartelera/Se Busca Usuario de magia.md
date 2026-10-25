@@ -1,1 +1,0 @@
-![[ChatGPT Image 21 feb 2026, 08_51_45 a.m..png]]
