@@ -1,3 +1,66 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Cronología vertical de la campaña
+.timeline {
+  position: relative;
+  max-width: 850px;
+  margin: 2.5rem auto;
+  padding-left: 2rem;
+  border-left: 3px solid var(--secondary);
+}
+
+.timeline-event {
+  position: relative;
+  margin: 0 0 2rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+}
+
+.timeline-event::before {
+  content: "";
+  position: absolute;
+  left: -2.63rem;
+  top: 1.4rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 50%;
+  background: var(--secondary);
+  border: 3px solid var(--light);
+}
+
+.timeline-date {
+  margin-bottom: 0.6rem;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.timeline-event h2 {
+  margin-top: 0.25rem;
+}
+
+.timeline-tag {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--darkgray);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .timeline {
+    margin-left: 0.5rem;
+    padding-left: 1.5rem;
+  }
+
+  .timeline-event {
+    padding: 1rem;
+  }
+
+  .timeline-event::before {
+    left: -2.13rem;
+  }
+}
