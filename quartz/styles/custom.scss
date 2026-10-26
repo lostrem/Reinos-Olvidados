@@ -1,66 +1,56 @@
+
 @use "./base.scss";
 
 // Cronología vertical de la campaña
 .timeline {
   position: relative;
-  max-width: 850px;
-  margin: 2.5rem auto;
+  margin: 2rem 0;
   padding-left: 2rem;
-  border-left: 3px solid var(--secondary);
+  border-left: 2px solid var(--secondary);
 }
 
 .timeline-event {
   position: relative;
-  margin: 0 0 2rem;
-  padding: 1.25rem 1.5rem;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
+  margin: 0 0 2.5rem;
+  padding: 0 0 0.25rem 1rem;
 }
 
 .timeline-event::before {
   content: "";
   position: absolute;
-  left: -2.63rem;
-  top: 1.4rem;
-  width: 0.9rem;
-  height: 0.9rem;
+  left: -2.48rem;
+  top: 0.35rem;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
   background: var(--secondary);
-  border: 3px solid var(--light);
+  border: 2px solid var(--light);
 }
 
 .timeline-date {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.35rem;
   color: var(--secondary);
   font-size: 0.9rem;
   font-weight: 700;
+  letter-spacing: 0.03em;
 }
 
 .timeline-event h2 {
-  margin-top: 0.25rem;
+  margin: 0 0 0.6rem;
+  font-size: 1.35rem;
+}
+
+.timeline-event p {
+  margin: 0.5rem 0;
+  line-height: 1.7;
 }
 
 .timeline-tag {
   display: inline-block;
-  padding: 0.25rem 0.65rem;
+  margin-top: 0.6rem;
+  padding: 0.2rem 0.55rem;
   border: 1px solid var(--lightgray);
-  border-radius: 999px;
+  border-radius: 4px;
   color: var(--darkgray);
   font-size: 0.8rem;
-}
-
-@media (max-width: 600px) {
-  .timeline {
-    margin-left: 0.5rem;
-    padding-left: 1.5rem;
-  }
-
-  .timeline-event {
-    padding: 1rem;
-  }
-
-  .timeline-event::before {
-    left: -2.13rem;
-  }
 }
