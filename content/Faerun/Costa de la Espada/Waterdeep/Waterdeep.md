@@ -1,0 +1,5 @@
+Waterdeep es una de las ciudades más importantes y prósperas de la Costa de la Espada, situada junto al mar de las Espadas, en el oeste de Faerûn. Conocida como la Ciudad de los Esplendores, constituye un centro comercial de primer orden, donde convergen mercaderes, navegantes, aventureros y emisarios de tierras lejanas. Su riqueza se sustenta en el comercio marítimo, la artesanía y las rutas que conectan el norte con las regiones meridionales del continente. La ciudad está gobernada por los Señores de Waterdeep, un consejo cuyos miembros mantienen parte de su identidad en secreto y cuya autoridad se apoya en una compleja estructura política y militar. A pesar de su prosperidad, las disputas entre facciones, las intrigas de las casas nobles y las amenazas mágicas forman parte de la vida cotidiana de la ciudad, cuya influencia se extiende mucho más allá de sus murallas.
+
+
+
+![[Città fortificata al tramonto.png]]
