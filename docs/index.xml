@@ -6,22 +6,40 @@
       <description>Últimas 10 notas on Reinos Olvidados</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Costa de la Espada</title>
-    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Costa-de-la-Espada</link>
-    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Costa-de-la-Espada</guid>
-    <description><![CDATA[ La Costa de la Espada es una extensa región costera situada al oeste de Faerûn, en el continente de Toril. ]]></description>
-    <pubDate>Tue, 27 Oct 2026 22:01:19 GMT</pubDate>
+    <title>Ashcombe</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Ashcombe</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Ashcombe</guid>
+    <description><![CDATA[ Ashcombe es una pequeña aldea rural situada en los Campos de los Muertos, cerca del río Winding Water, en la Costa de la Espada en Faerûn. ]]></description>
+    <pubDate>Thu, 29 Oct 2026 16:41:12 GMT</pubDate>
   </item><item>
-    <title>Roaringshore</title>
-    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Roaringshore/Roaringshore</link>
-    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Roaringshore/Roaringshore</guid>
-    <description><![CDATA[ Roaringshore es una pequeña aldea rural situada en los Campos de los Muertos, cerca del río Winding Water, en la Costa de la Espada en Faerûn. ]]></description>
-    <pubDate>Tue, 27 Oct 2026 22:01:19 GMT</pubDate>
+    <title>Edric Hallowfield</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Edric-Hallowfield</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Edric-Hallowfield</guid>
+    <description><![CDATA[ Campesino de Ashcombe Edric Hallowfield es un campesino humano de los Campos de los Muertos que ha dedicado gran parte de su vida al cultivo de esas tierras. ]]></description>
+    <pubDate>Thu, 29 Oct 2026 16:41:12 GMT</pubDate>
+  </item><item>
+    <title>Mara Thornbrook</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Mara-Thornbrook</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Mara-Thornbrook</guid>
+    <description><![CDATA[ Mercader de Ashcombe Mara Thornbrook es una mediana de aspecto lúgubre y la última mercader de Ashcombe. ]]></description>
+    <pubDate>Thu, 29 Oct 2026 16:41:12 GMT</pubDate>
+  </item><item>
+    <title>Vrak</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Vrak</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Vrak</guid>
+    <description><![CDATA[ Mercenario Vrak es un mercenario orco de pura sangre, reconocible por su tamaño descomunal y su piel de un verde oscuro. ]]></description>
+    <pubDate>Thu, 29 Oct 2026 16:41:12 GMT</pubDate>
   </item><item>
     <title>Edric Vaust</title>
     <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Waterdeep/Personas/Edric-Vaust</link>
     <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Waterdeep/Personas/Edric-Vaust</guid>
-    <description><![CDATA[ Regente local Noble de linaje menor encargado de administrar las tierras circundantes a Roaringshore en los Campos de los Muertos. ]]></description>
+    <description><![CDATA[ Regente local Noble de linaje menor encargado de administrar las tierras circundantes a Ashcombe en los Campos de los Muertos. ]]></description>
+    <pubDate>Thu, 29 Oct 2026 16:41:12 GMT</pubDate>
+  </item><item>
+    <title>Costa de la Espada</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Costa-de-la-Espada</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Costa-de-la-Espada</guid>
+    <description><![CDATA[ La Costa de la Espada es una extensa región costera situada al oeste de Faerûn, en el continente de Toril. ]]></description>
     <pubDate>Tue, 27 Oct 2026 22:01:19 GMT</pubDate>
   </item><item>
     <title>Waterdeep</title>
