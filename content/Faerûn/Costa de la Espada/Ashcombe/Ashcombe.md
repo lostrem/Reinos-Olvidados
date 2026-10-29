@@ -1,0 +1,4 @@
+Ashcombe es una pequeña aldea rural situada en los Campos de los Muertos, cerca del río Winding Water, en la [[Costa de la Espada]] en [[Faerûn]]. Fundada en el año 1462 CV por un reducido grupo de familias dedicadas al cultivo de la tierra y la cría de ganado, la comunidad prosperó modestamente bajo la regencia de Edric Vaust, quien durante tres décadas consiguió mantener cierta estabilidad entre sus habitantes. Sin embargo, las sucesivas malas cosechas, el deterioro de las tierras y la creciente dificultad para sostener los tributos terminaron por quebrar el frágil equilibrio que mantenía viva a la aldea. Tras años de pérdidas, la protección de su señor fue retirada y sus habitantes quedaron abandonados a su suerte. Hoy, Roaringshore es apenas una sombra de lo que alguna vez fue: campos improductivos, corrales vacíos y viviendas deterioradas dan testimonio de una comunidad que lucho y perdio.
+
+
+![[Villaggio medievale nella nebbia.png]]
