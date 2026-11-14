@@ -1,0 +1,3 @@
+Cefric Valmont es un diplomático de Neverwinter, actualmente volviendo de la corte del Imperio de Varmarkai, en las lejanas tierras de Kara-Tur. Proviene de una familia noble y s servido durante años en distintas cortes del continente. Viaja acompañado de la legítima emperatriz de Varmarkai. Es un hombre de buenos modales, lengua hábil y afición por el vino, siempre dispuesto a entablar conversación y compartir alguna anécdota de sus hazañas.
+
+![[WhatsApp Image 2026-11-14 at 1.27.12 PM.jpeg]]

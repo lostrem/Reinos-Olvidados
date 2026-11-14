@@ -6,6 +6,18 @@
       <description>Últimas 10 notas on Reinos Olvidados</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Neverwinter</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Neverwinter/Neverwinter</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Neverwinter/Neverwinter</guid>
+    <description><![CDATA[ Neverwinster, la Joya del Norte_, es una ciudad cuya historia se encuentra tan ligada a sus gentes como a sus murallas y monumentos. ]]></description>
+    <pubDate>Sat, 14 Nov 2026 16:36:40 GMT</pubDate>
+  </item><item>
+    <title>Cefric Valmont</title>
+    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Neverwinter/Personas/Cefric-Valmont</link>
+    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Neverwinter/Personas/Cefric-Valmont</guid>
+    <description><![CDATA[ Cefric Valmont es un diplomático de Neverwinter, actualmente volviendo de la corte del Imperio de Varmarkai, en las lejanas tierras de Kara-Tur. ]]></description>
+    <pubDate>Sat, 14 Nov 2026 16:35:46 GMT</pubDate>
+  </item><item>
     <title>Edric Hallowfield</title>
     <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Edric-Hallowfield</link>
     <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Costa-de-la-Espada/Ashcombe/Personajes/Edric-Hallowfield</guid>
@@ -53,18 +65,6 @@
     <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/Faer%C3%BBn</guid>
     <description><![CDATA[ Faerûn es uno de los principales continentes de Toril. ]]></description>
     <pubDate>Tue, 27 Oct 2026 22:01:19 GMT</pubDate>
-  </item><item>
-    <title>Línea de tiempo</title>
-    <link>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/L%C3%ADnea-de-tiempo</link>
-    <guid>https://lostrem.github.io/Reinos-Olvidados/Faer%C3%BBn/L%C3%ADnea-de-tiempo</guid>
-    <description><![CDATA[ Crónica de los acontecimientos Los acontecimientos conocidos en los Reinos Olvidados. ]]></description>
-    <pubDate>Tue, 27 Oct 2026 22:01:19 GMT</pubDate>
-  </item><item>
-    <title>Reinos Olvidados</title>
-    <link>https://lostrem.github.io/Reinos-Olvidados/</link>
-    <guid>https://lostrem.github.io/Reinos-Olvidados/</guid>
-    <description><![CDATA[ Created by Terrocar En los vastos Reinos Olvidados, donde los amaneceres doran montañas antiguas y las noches guardan secretos que ni los dioses osan pronunciar, se despliega un mundo forjado por la magia, la aventura y la eternidad misma. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 22:16:12 GMT</pubDate>
   </item>
     </channel>
   </rss>

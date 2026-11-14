@@ -1,0 +1,3 @@
+Neverwinster, la Joya del Norte_, es una ciudad cuya historia se encuentra tan ligada a sus gentes como a sus murallas y monumentos. Sus habitantes, conocidos por su ingenio, perseverancia y espíritu comercial, han sabido reconstruirla una y otra vez frente a guerras, plagas y calamidades. Su puerto constituye una puerta de intercambio entre las tierras del Norte, mientras que sus artesanos y comerciantes mantienen viva su prosperidad. Aunque no ha estado libre de conflictos, Neverwinter siempre ha sabido encontrar su lugar entre las grandes ciudades de la Costa de la Espada. Quien la visita descubre que su mayor riqueza no reside en sus edificios, sino en la voluntad de quienes la llaman hogar.
+
+![[NeverwinterHarbor.webp]]
